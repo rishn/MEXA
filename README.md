@@ -10,6 +10,14 @@ This project aims to develop a web-app catered toweards the Education sector! <b
   <img src="https://github.com/rishn/MEXA/blob/main/screenshots/dashboard.png?raw=true" alt="MEXA" />
 </p>
 
+## Demos
+
+https://github.com/user-attachments/assets/a7ca7e43-5eff-474e-85d3-dafbf2ab606b
+
+https://github.com/user-attachments/assets/0f53ebee-0512-4e17-837d-f839e333020f
+
+https://github.com/user-attachments/assets/15503c51-0f0a-475a-8199-162c22ca6c5c
+
 ## Features
 
 - **Login Form**: Secure login page for users.
