@@ -10,7 +10,7 @@
 
 Originally developed as a React front-end application with TypeScript, MEXA has been extended with a robust backend built using *Express.js* and *Redux* (for state management) with *MongoDB* for storing data.
 
-[Explore the app here!](https://mexa.onrender.com/)
+[Explore the app here!](https://mexa.onrender.com/)<br/>
 
 <p align="center">
   <img src="https://github.com/rishn/MEXA/blob/main/screenshots/dashboard.png?raw=true" alt="MEXA" />
