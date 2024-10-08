@@ -4,11 +4,13 @@
   <img src="https://github.com/rishn/MEXA/blob/main/assets/MEXA.png?raw=true" alt="MEXA" />
 </p>
 
-MEXA is a full-stack web application designed to assist in conducting offline examinations while digitizing other educational tasks. The two primary goals of MEXA are:
+***[MEXA](https://mexa.onrender.com/)*** is a full-stack web application designed to assist in conducting offline examinations while digitizing other educational tasks. The two primary goals of MEXA are:
 1. **Reduce paper wastage** by digitizing notes, course materials, and assessments.
 2. **Improve examination standards** by promoting advanced critical thinking concepts over rote learning methods.
 
 Originally developed as a React front-end application with TypeScript, MEXA has been extended with a robust backend built using *Express.js* and *Redux* (for state management) with *MongoDB* for storing data.
+
+[Explore the app here!](https://mexa.onrender.com/)
 
 <p align="center">
   <img src="https://github.com/rishn/MEXA/blob/main/screenshots/dashboard.png?raw=true" alt="MEXA" />
